@@ -1,0 +1,2 @@
+Project 2 Pre-Project - Griffin Bishop and Ian Vossoughi
+Linux ubuntu 3.13.11-ckt39grbishop #1 SMP Tue Sep 6 13:33:49 PDT 2016 i686 i686 i686 GNU/Linux
