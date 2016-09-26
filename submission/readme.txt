@@ -1,5 +1,3 @@
-Authors: Griffin Bishop and Ian Vossoughi
-Username: grbishop
 
 Notes:
 The assignment says to use the file "syscall_table_32.S"

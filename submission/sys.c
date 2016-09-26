@@ -1,5 +1,4 @@
-/* Project 2 Pre-project - Griffin Bishop and Ian Vossoughi
- *
+ /*
  *  linux/kernel/sys.c
  *
  *  Copyright (C) 1991, 1992  Linus Torvalds

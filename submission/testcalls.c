@@ -1,4 +1,3 @@
-// Project 2 Pre-Project - Griffin Bishop and Ian Vossoughi
 #include <sys/syscall.h>
 #include <stdio.h>
 
